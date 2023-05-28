@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeleniumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-28T16:35:12" hostname="8ada5d9db3b4" time="16.134">
+  <properties/>
+  <testcase name="testSelenium" classname="SeleniumTest" time="16.134"/>
+  <system-out><![CDATA[Freesound - Freesound
+]]></system-out>
+  <system-err><![CDATA[May 28, 2023 6:35:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
